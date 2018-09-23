@@ -1,0 +1,10 @@
+C:\Users\Revnoob\Desktop\deri\deri\bin\Debug\deri.exe.config
+C:\Users\Revnoob\Desktop\deri\deri\bin\Debug\deri.exe
+C:\Users\Revnoob\Desktop\deri\deri\bin\Debug\deri.pdb
+C:\Users\Revnoob\Desktop\deri\deri\obj\Debug\deri.csprojAssemblyReference.cache
+C:\Users\Revnoob\Desktop\deri\deri\obj\Debug\deri.Form1.resources
+C:\Users\Revnoob\Desktop\deri\deri\obj\Debug\deri.Properties.Resources.resources
+C:\Users\Revnoob\Desktop\deri\deri\obj\Debug\deri.csproj.GenerateResource.cache
+C:\Users\Revnoob\Desktop\deri\deri\obj\Debug\deri.csproj.CoreCompileInputs.cache
+C:\Users\Revnoob\Desktop\deri\deri\obj\Debug\deri.exe
+C:\Users\Revnoob\Desktop\deri\deri\obj\Debug\deri.pdb
